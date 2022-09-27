@@ -12,6 +12,7 @@ yarn add vue3-scroll-virtual-list -S
 
 ```js
 import VirtualList from 'vue3-scroll-virtual-list'
+import 'vue3-scroll-virtual-list/dist/style.css'
 
 <virtualList
   :data="list"
