@@ -2,7 +2,7 @@
   "name": "vue3-scroll-virtual-list",
   "private": false,
   "description": "vue3 virtual scroll list",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "type": "module",
   "main": "dist/bundle.js",
   "module": "dist/bundle.js",
@@ -13,7 +13,7 @@
   "repository": {
     "url": "https://github.com/WillianLiusHao/vue3-scroll-virtual-list.git"
   },
-  "License": "MIT",
+  "license": "MIT",
   "author": "william",
   "scripts": {
     "dev": "vite",
