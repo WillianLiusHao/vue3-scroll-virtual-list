@@ -13,6 +13,7 @@
   "repository": {
     "url": "https://github.com/WillianLiusHao/vue3-scroll-virtual-list.git"
   },
+  "License": "MIT",
   "author": "william",
   "scripts": {
     "dev": "vite",
