@@ -2,7 +2,7 @@
   "name": "vue3-scroll-virtual-list",
   "private": false,
   "description": "vue3 virtual scroll list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "dist/bundle.js",
   "module": "dist/bundle.js",
